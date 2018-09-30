@@ -1,6 +1,3 @@
----
-title: The Lumpy Earth Society
----
 <h1>The Lumpy Earth Society</h1>
 <h2>Where We Believe In The True Earth!</h2>
 <a href="https://www.khanacademy.org/computer-programming/you-are-smart/4852016795123712"><img src="https://www.kasandbox.org/programming-images/landscapes/mountains-sunset.png" width="251px"></a>
